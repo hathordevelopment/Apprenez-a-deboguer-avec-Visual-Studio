@@ -8,7 +8,7 @@ using System.Windows.Shapes;
 using System.Drawing.Imaging;
 
 /// <summary>
-///     Application pour entraînement au débogage | Link => https://docs.microsoft.com/fr-fr/visualstudio/debugger/getting-started-with-the-debugger?context=visualstudio/default
+/// /    Application pour entraînement au débogage | Link => https://docs.microsoft.com/fr-fr/visualstudio/debugger/getting-started-with-the-debugger?context=visualstudio/default
 /// </summary>
 
 namespace SDKSamples.ImageSample
